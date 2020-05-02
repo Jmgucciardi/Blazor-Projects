@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Jason",
+        "placeOfBirth": "Arlington",
+        "DOB": "01/01/01"
+    },
+    {
+        "name": "Mary",
+        "placeOfBirth": "Austin",
+        "DOB": "04/06/88"
+    },
+    {
+        "name": "Jon",
+        "placeOfBirth": "Boston",
+        "DOB": "08/20/1987"
+        
+    }
+]

@@ -1,0 +1,51 @@
+@page "/testpage"
+@inject HttpClient Http
+
+<h1>Test Page</h1>
+<p>Counter: @counter</p>
+<button class="btn btn-primary" @onclick="HandleClickEvent">Click me</button>
+
+
+@if(testData == null)
+{
+    <p>...loading</p>
+}
+else 
+{
+    @foreach (var data in testData)
+    {
+        <div>
+            <button @onclick="@(() => HandleSelectName(data.Name))">@data.Name</button>
+        </div>
+    }
+}
+
+@code{
+    private int counter = 0;
+
+    private void HandleClickEvent()
+    {
+        Console.WriteLine("Clicky Clicky");
+        counter++;
+    }
+
+    private void HandleSelectName(string selected)
+    {
+        
+        Console.WriteLine(selected);
+    }
+
+    private TestData[] testData;
+
+    protected override async Task OnInitializedAsync()
+    {
+        testData = await Http.GetJsonAsync<TestData[]>("sample-data/TestData.json");
+    }
+
+    public class TestData
+    {
+        public String Name { get; set; }
+        public String PlaceOfBirth { get; set; }
+        public String DOB { get; set; }
+    }
+};
