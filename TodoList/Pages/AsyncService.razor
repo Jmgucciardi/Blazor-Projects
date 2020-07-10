@@ -1,0 +1,17 @@
+@page "/AsyncService"
+@using System.Net.Http
+@inject HttpClient Http
+
+<input @bind="newItemName" placeholder="New Todo Item" />
+<button @onclick="@AddItem">Add</button>
+
+@code 
+{
+    private string newItemNames;
+
+    private async Task AddItem()
+    {
+        var addItem = new TodoItem { Name = newItemName, IsComplete = false };
+        await Http.PostAsJsonAsync("Api/TodoItems", addItem);
+    }
+}

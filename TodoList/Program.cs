@@ -1,4 +1,5 @@
 using System;
+using System.Net.Http;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -15,6 +16,10 @@ namespace TodoList
     {
         public static void Main(string[] args)
         {
+            builder.Services.AddTransient(sp => new HttpClient 
+            {
+                BaseAddress = new Uri(builder.HostEnvironment.BaseAddress)
+            });
             CreateHostBuilder(args).Build().Run();
         }
 

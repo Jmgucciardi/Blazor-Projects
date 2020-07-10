@@ -262,3 +262,5 @@ C:\Users\jgucciardi\projects\webAssembly\blazor\WebApplication1\obj\Debug\netsta
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebApplication1\obj\Debug\netstandard2.1\RazorDeclaration\Pages\TestPage.razor.g.cs
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebApplication1\obj\Debug\netstandard2.1\Razor\Pages\TestPage.razor.g.cs
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebApplication1\bin\Debug\netstandard2.1\MatBlazor.dll
+C:\Users\jgucciardi\projects\webAssembly\blazor\WebApplication1\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Todo.razor.g.cs
+C:\Users\jgucciardi\projects\webAssembly\blazor\WebApplication1\obj\Debug\netstandard2.1\Razor\Pages\Todo.razor.g.cs

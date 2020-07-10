@@ -49,3 +49,4 @@ C:\Users\jgucciardi\projects\webAssembly\blazor\TodoList\obj\Debug\netcoreapp3.1
 C:\Users\jgucciardi\projects\webAssembly\blazor\TodoList\obj\Debug\netcoreapp3.1\TodoList.dll
 C:\Users\jgucciardi\projects\webAssembly\blazor\TodoList\obj\Debug\netcoreapp3.1\TodoList.pdb
 C:\Users\jgucciardi\projects\webAssembly\blazor\TodoList\obj\Debug\netcoreapp3.1\TodoList.csproj.CopyComplete
+C:\Users\jgucciardi\projects\webAssembly\blazor\TodoList\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AsyncService.razor.g.cs
