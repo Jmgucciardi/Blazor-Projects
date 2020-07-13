@@ -178,7 +178,6 @@ C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstand
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\WebAsm.RazorTargetAssemblyInfo.cache
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\WebAsm.csproj.CopyComplete
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\4WCWcMsXWa-yCnyHZOJjw3rrEanDbIra8TKynwaZWiI=.hash
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -230,13 +229,11 @@ C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstand
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\oAIlpv09S-0jXnze744E1V88Oaw8Ql1x3Alw0hsVYdw=.hash
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
-C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\Z4_IRwhQIQTETDI_k2ZZPY3Z860hG69uWRRTSLfg93s=.hash
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\PfFBZvh95tqlnH9cQ8r2GhmLSCtSPINiqwoUdhEpnyM=.hash
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAsm.dll.gz
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -357,3 +354,8 @@ C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstand
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\staticwebassets\WebAsm.StaticWebAssets.xml
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\WebAsm.dll
 C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\WebAsm.pdb
+C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchSpotify.razor.g.cs
+C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\Razor\Pages\FetchSpotify.razor.g.cs
+C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\IjC1I_Efb885_zangnERczOUMT3eHgVo3Sy80Wy8k0s=.hash
+C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\Ip-Ha5bOj2H5u_ipnhZty_-ayRn4KRqjAx86NchDzZk=.hash
+C:\Users\jgucciardi\projects\webAssembly\blazor\WebAsm\WebAsm\obj\Debug\netstandard2.1\integrity\wnixRQOJEhNdnUwF78CzTp1oxMXUmTuQHN-ZDhiYDOQ=.hash
